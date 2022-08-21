@@ -3,3 +3,5 @@ Second file text
 Changes made in the main branch
 
 Changed in rebase branch
+
+Changed in main branch
