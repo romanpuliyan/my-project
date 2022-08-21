@@ -1,3 +1,7 @@
 Created in rebase branch
 
 Changed in main branch
+
+First change
+
+Second change
