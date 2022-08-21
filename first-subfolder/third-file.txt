@@ -3,3 +3,5 @@ Third file text
 Also changed in the main branch
 
 Changed third file
+
+Changed in rebase branch

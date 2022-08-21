@@ -1,1 +1,3 @@
 Created in rebase branch
+
+Changed in other rebase branch
